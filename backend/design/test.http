@@ -1,0 +1,8 @@
+POST https://miniature-space-spork-694qvrq5r9q4hxrvv-3000.app.github.dev/api/design
+Content-Type: application/json
+
+{
+"prompt": "Build a fitness tracking mobile app"
+}
+
+
